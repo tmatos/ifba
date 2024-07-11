@@ -76,7 +76,7 @@ escreva(x)
 | `escreva(2*5)`      | 10          |
 
 
-é diferente de 
+é diferente de:
 
 | Código              | Resultado   |
 | ------------------- | ----------- |
@@ -114,7 +114,7 @@ x >= y
 x <= y
 ```
 
-**O resultado é um valor lógico (verdadeiro ou falso)**
+**O resultado é um valor lógico (verdadeiro ou falso).**
 
 
 ## Desvio condicional:
