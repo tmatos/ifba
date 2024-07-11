@@ -8,7 +8,7 @@
 |4	|14/03/2024	|Sintaxe de Portugol até desvio condicional: "se, senao"	|
 |5	|20/03/2024	|Tipos e operadores lógicos	|
 |6	|21/03/2024	|Discussão sobre os demais tipos de dados e exercício	|
-|7	|10/07/2024	|	|
+|7	|10/07/2024	|Revisão	|
 |8	|11/07/2024	|	|
 |9	|17/07/2024	|	|
 |10	|18/07/2024	|	|
